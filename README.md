@@ -8,6 +8,6 @@ You can play the game at: http://hesserp.github.io/github-games/
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
-## Instructons
+## Instructions
 
 _TODO_
